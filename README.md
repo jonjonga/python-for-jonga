@@ -1,1 +1,2 @@
-Códigos aprendidos por em python por mim.
+Códigos aprendidos 
+em python por mim.
