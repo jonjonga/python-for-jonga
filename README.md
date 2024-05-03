@@ -1,1 +1,1 @@
-# python-for-jonga
+Códigos aprendidos por em python por mim.
