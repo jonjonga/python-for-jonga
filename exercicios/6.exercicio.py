@@ -10,7 +10,7 @@ notaTres = int(input("Digite a terceira nota: "))
 soma = notaUm + notaDois
 media = soma / 2
 
-print("jonExibindo dados")
+print("Exibindo dados")
 print(f"Nome: {nome}")
 print(f"Idade: {idade}")
 print(f"Primeira nota: {notaUm}")
